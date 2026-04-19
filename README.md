@@ -1,6 +1,14 @@
-\# DSP Project
+# DSP Project
 
+## Objective
+To understand and implement basic Digital Signal Processing concepts.
 
+## Description
+This repository contains my DSP experiments, MATLAB code, and results.
 
-This is my first GitHub project.
+## Tools Used
+- MATLAB
+- Simulink
 
+## Author
+Aunnitya
