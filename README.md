@@ -1,23 +1,28 @@
-# DSP Project
+# Noise Removal using Moving Average Filter
 
 ## Objective
-To understand and implement basic Digital Signal Processing concepts.
+To remove noise from a signal using a moving average filter.
 
-## Description
-This repository contains my DSP experiments, MATLAB code, and results.
+## Methodology
+1. Generate sine wave signal
+2. Add Gaussian noise
+3. Apply moving average filter
+4. Analyze in time and frequency domain (FFT)
 
 ## Tools Used
 - MATLAB
-- Simulink
+
+## Results
+Noise is reduced and signal becomes smoother after filtering.
 
 ## Output
 
-### Time Domain Analysis
+### Time Domain
 ![Time Domain](time_domain.png)
 
-### Frequency Domain Analysis (FFT)
+### Frequency Domain
 ![Frequency Domain](frequency_domain.png)
-
 
 ## Author
 Aunnitya
+
