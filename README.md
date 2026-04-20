@@ -18,7 +18,7 @@ Noise is reduced and signal becomes smoother after filtering.
 ## Output
 
 ### Time Domain
-![Time Domain](time_domain.png)
+![Time Domain]https://github.com/Aunnitya/DSP-Project/blob/54e24a4e8c6b8a0027c590565b2583830c652a06/%20time_domain.png
 
 ### Frequency Domain
 ![Frequency Domain](frequency_domain.png)
